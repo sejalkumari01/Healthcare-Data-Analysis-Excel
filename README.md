@@ -25,4 +25,4 @@ The goal is to provide insights that help improve resource allocation and effici
 
 ---
 📫 **Author:** Sejal Kumari  
-🔗 [LinkedIn](https://www.linkedin.com/in/sejalkumari01) | 📧 burnwalsejal4@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sejalkumari01) 
