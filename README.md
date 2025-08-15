@@ -17,8 +17,8 @@ The goal is to provide insights that help improve resource allocation and effici
 - Resource utilization analysis suggested improved allocation strategies.
 
 ## 📂 Files in this Repository
-- `Healthcare_Data_Analysis.xlsx` → Cleaned dataset & analysis
-- `Healthcare_Dashboard.png` → Dashboard screenshot (optional)
+- [`Healthcare_Data_Analysis.xlsx](https://1drv.ms/x/c/6e193f923f48393e/EU60sOmCpPZPmjO_j0naU2ABm7BJkqr8dRO1TYmAw6ldUg?e=nKLsxU) → Cleaned dataset & analysis
+- `Healthcare_Dashboard.png` → Dashboard screenshot 
 
 ## 🚀 How to View
 1. Download the Excel file from this repository.
